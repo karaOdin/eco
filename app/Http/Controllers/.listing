@@ -1,0 +1,6 @@
+drwxr-xr-x    3 ecochau1   ecochau1         4096 Jun 22 08:07 .
+drwxr-xr-x    4 ecochau1   ecochau1         4096 Jun 22 08:06 ..
+drwxr-xr-x    2 ecochau1   ecochau1         4096 Jun 22 08:07 Auth
+-rw-r--r--    1 ecochau1   ecochau1          361 Jun 22 08:06 Controller.php
+-rw-r--r--    1 ecochau1   ecochau1          452 Jun 22 08:06 HomeController.php
+-rw-r--r--    1 ecochau1   ecochau1          462 Jun 22 08:06 ProductController.php

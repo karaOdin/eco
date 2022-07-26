@@ -1,0 +1,6 @@
+drwxr-xr-x    2 ecochau1   ecochau1         4096 Jun 27 08:12 .
+drwxr-xr-x   13 ecochau1   ecochau1         4096 Jun 22 13:08 ..
+-rw-r--r--    1 ecochau1   ecochau1          528 Jun 22 09:30 api.php
+-rw-r--r--    1 ecochau1   ecochau1          508 Jun 22 09:30 channels.php
+-rw-r--r--    1 ecochau1   ecochau1          553 Jun 22 09:30 console.php
+-rw-r--r--    1 ecochau1   ecochau1         1263 Jun 27 08:12 web.php

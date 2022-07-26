@@ -1,0 +1,7 @@
+drwxr-xr-x    2 ecochau1   ecochau1         4096 Jun 22 08:06 .
+drwxr-xr-x    6 ecochau1   ecochau1         4096 Jun 22 08:06 ..
+-rw-r--r--    1 ecochau1   ecochau1          477 Jun 22 08:06 AppServiceProvider.php
+-rw-r--r--    1 ecochau1   ecochau1          575 Jun 22 08:06 AuthServiceProvider.php
+-rw-r--r--    1 ecochau1   ecochau1          380 Jun 22 08:06 BroadcastServiceProvider.php
+-rw-r--r--    1 ecochau1   ecochau1          596 Jun 22 08:06 EventServiceProvider.php
+-rw-r--r--    1 ecochau1   ecochau1         1529 Jun 22 08:06 RouteServiceProvider.php

@@ -1,0 +1,28 @@
+drwxr-xr-x   13 ecochau1   ecochau1         4096 Jun 22 13:08 .
+drwxr-x---   14 ecochau1   99               4096 Jun 23 02:30 ..
+-rw-r--r--    1 ecochau1   ecochau1          587 Jun 22 13:08 .env
+-rw-r--r--    1 ecochau1   ecochau1          521 Jun 22 08:04 .env - Copy.example
+-rw-r--r--    1 ecochau1   ecochau1          521 Jun 22 08:04 .env.example
+drwxr-xr-x    7 ecochau1   ecochau1         4096 Jun 22 08:06 .git
+-rw-r--r--    1 ecochau1   ecochau1          111 Jun 22 08:04 .gitattributes
+-rw-r--r--    1 ecochau1   ecochau1          146 Jun 22 08:04 .gitignore
+drwxr-xr-x    6 ecochau1   ecochau1         4096 Jun 22 08:06 app
+-rw-r--r--    1 ecochau1   ecochau1         1686 Jun 22 08:04 artisan
+drwxr-xr-x    3 ecochau1   ecochau1         4096 Jun 22 08:07 bootstrap
+-rw-r--r--    1 ecochau1   ecochau1         1583 Jun 22 08:04 composer.json
+-rw-r--r--    1 ecochau1   ecochau1       204805 Jun 22 08:04 composer.lock
+drwxr-xr-x    2 ecochau1   ecochau1         4096 Jun 22 08:07 config
+drwxr-xr-x    5 ecochau1   ecochau1         4096 Jun 22 08:07 database
+-rw-r--r--    1 ecochau1   ecochau1        58073 Jun 22 08:04 db_ecochaudiere (1).sql
+drwxr-xr-x    2 ecochau1   ecochau1         4096 Jun 22 08:08 hooks
+-rw-r--r--    1 ecochau1   ecochau1       535075 Jun 22 08:04 package-lock.json
+-rw-r--r--    1 ecochau1   ecochau1         1593 Jun 22 08:04 package.json
+-rw-r--r--    1 ecochau1   ecochau1         1040 Jun 22 08:04 phpunit.xml
+-rw-r--r--    1 ecochau1   ecochau1         3544 Jun 22 08:04 readme.md
+drwxr-xr-x    5 ecochau1   ecochau1         4096 Jun 22 09:30 resources
+drwxr-xr-x    2 ecochau1   ecochau1         4096 Jun 27 08:12 routes
+-rw-r--r--    1 ecochau1   ecochau1          563 Jun 22 08:04 server.php
+drwxr-xr-x    5 ecochau1   ecochau1         4096 Jun 22 09:30 storage
+drwxr-xr-x    4 ecochau1   ecochau1         4096 Jun 22 10:13 tests
+drwxr-xr-x   45 ecochau1   ecochau1         4096 Jun 22 10:22 vendor
+-rw-r--r--    1 ecochau1   ecochau1          549 Jun 22 08:04 webpack.mix.js

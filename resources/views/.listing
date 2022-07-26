@@ -1,0 +1,11 @@
+drwxr-xr-x    5 ecochau1   ecochau1         4096 Jun 27 08:14 .
+drwxr-xr-x    5 ecochau1   ecochau1         4096 Jun 22 09:30 ..
+-rw-r--r--    1 ecochau1   ecochau1        25999 Jun 27 06:53 aboutus.blade.php
+drwxr-xr-x    3 ecochau1   ecochau1         4096 Jun 22 09:30 auth
+-rw-r--r--    1 ecochau1   ecochau1         7771 Jun 27 08:14 contact.blade.php
+drwxr-xr-x    2 ecochau1   ecochau1         4096 Jun 22 09:30 errors
+drwxr-xr-x    2 ecochau1   ecochau1         4096 Jun 27 07:47 layouts
+-rw-r--r--    1 ecochau1   ecochau1            0 Jun 27 07:55 mail.php
+-rw-r--r--    1 ecochau1   ecochau1         4942 Jun 23 06:26 product.blade.php
+-rw-r--r--    1 ecochau1   ecochau1         4461 Jun 23 03:08 productDetail.blade.php
+-rw-r--r--    1 ecochau1   ecochau1        67388 Jun 27 07:47 welcome.blade.php
